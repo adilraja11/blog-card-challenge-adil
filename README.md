@@ -1,5 +1,3 @@
-<!-- Use Ctrl/Cmd + Shift + V in VS Code to preview this Markdown file. -->
-
 # GreatFrontEnd Projects Challenge
 
 Welcome to the GreatFrontEnd Projects platform! Join our [Discord server](https://www.greatfrontend.com/community) and get support from our community ranging from new developers to senior engineers from big tech companies!
@@ -150,5 +148,6 @@ Congratulations on submitting your completed challenge! 🚀 Here are some possi
 At GreatFrontEnd projects, we greatly value receiving feedback as it helps us continuously improve and refine our products/services to better meet the needs and expectations of our customers and stakeholders. If you have any feedback or questions, the best channels to reach out would be our [Discord community](https://www.greatfrontend.com/community), our [LinkedIn Page](https://www.linkedin.com/company/greatfrontend), or send an email to contact@greatfrontend.com.
 
 🔥 Good luck on your Front End Developer journey! 🔥
-#   b l o g - c a r d - c h a l l e n g e - a d i l  
+#   b l o g - c a r d - c h a l l e n g e - a d i l 
+ 
  
